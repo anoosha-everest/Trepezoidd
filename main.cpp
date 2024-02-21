@@ -8,5 +8,5 @@ int main(){
     int h;
     int sum=addition(a,b);
     double div=division(sum);
-    double area=multiplication(div);
+    double area=multiplication(div,h);
 }
