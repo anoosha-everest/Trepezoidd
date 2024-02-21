@@ -1,12 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
-int addition(int a,int b{
-    return (a+b);
-})
+int multiplication(double d,int h){
+    return (d*h);
+}
 int main(){
     int a,b;
     int h;
     int sum=addition(a,b);
     double div=division(sum);
-    double area=multiplication(div);
+    double area=multiplication(div,h);
 }
