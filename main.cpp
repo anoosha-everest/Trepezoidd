@@ -1,7 +1,13 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 int multiplication(double d,int h){
     return (d*h);
+
+int addition(int a,int b{
+    return (a+b);
+double division(int sum){
+  return (sum/2);
 }
 int main(){
     int a,b;
