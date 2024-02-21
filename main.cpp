@@ -2,10 +2,10 @@
 using namespace std;
 
 int multiplication(double d,int h){
-    return (d*h);
+    return (d*h);}
 
-int addition(int a,int b{
-    return (a+b);
+int addition(int a,int b){
+    return (a+b);}
 double division(int sum){
   return (sum/2);
 }
